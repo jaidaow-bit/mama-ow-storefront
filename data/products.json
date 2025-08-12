@@ -1,0 +1,30 @@
+[
+  {
+    "name": "No Sugar No Salt \u2014 Chunky",
+    "slug": "no-sugar-no-salt-chunky",
+    "price": 18,
+    "description": "250g jar. Naturally sweet chunky peanut butter with no sugar, no salt, no preservatives \u2014 just roasted peanuts.",
+    "ingredients": "Roasted peanuts"
+  },
+  {
+    "name": "No Sugar No Salt \u2014 Smooth",
+    "slug": "no-sugar-no-salt-smooth",
+    "price": 18,
+    "description": "250g jar. Naturally sweet smooth peanut butter with no sugar, no salt, no preservatives \u2014 just roasted peanuts.",
+    "ingredients": "Roasted peanuts"
+  },
+  {
+    "name": "Less Sugar Less Salt \u2014 Chunky",
+    "slug": "less-sugar-less-salt-chunky",
+    "price": 18,
+    "description": "250g jar. Chunky peanut butter with less sugar, less salt, no preservatives.",
+    "ingredients": "Roasted peanuts, sugar, salt"
+  },
+  {
+    "name": "Less Sugar Less Salt \u2014 Smooth",
+    "slug": "less-sugar-less-salt-smooth",
+    "price": 18,
+    "description": "250g jar. Smooth peanut butter with less sugar, less salt, no preservatives.",
+    "ingredients": "Roasted peanuts, sugar, salt"
+  }
+]

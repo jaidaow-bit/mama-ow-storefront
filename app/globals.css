@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html, body { height: 100%; }
+
+body { @apply bg-pbj-white text-pbj-deep antialiased; }
+
+.container { @apply max-w-6xl mx-auto px-4; }
+
+.btn { @apply inline-flex items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition; }
+.btn-primary { @apply bg-pbj-nutty text-white hover:opacity-95 shadow; }
+.btn-secondary { @apply bg-pbj-deep text-white hover:opacity-95 shadow; }
+
+.card { @apply rounded-xl border border-pbj-grey/50 bg-pbj-white shadow-sm; }
